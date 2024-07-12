@@ -1,14 +1,16 @@
 ![logo](https://github.com/Mantu001/Mantu001/blob/main/Github%20Banner.gif)
 <h1 align="center">Hi 👋, I'm Mantu Kumar Tiwari</h1>
 <h3 align="center">God is a Designer</h3>
-<img align="right" alt="Coding" width="400" src="https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg">
+<img align="right" alt="Coding" width="400" src="https://github.com/Mantu001/Mantu001/blob/main/Right%20Image.png">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mantu001&label=Profile%20views&color=0e75b6&style=flat" alt="mantu001" /> </p>
 
-- 📫 Linktree **https://linktr.ee/MantukrTiwari**
+- 📫 How to reach me **https://linktr.ee/MantukrTiwari**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mantu-kumar-tiwari-553160262" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mantu-kumar-tiwari-553160262" height="30" width="40" /></a>
+<a href="https://instagram.com/mantu_kr_tiwari_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mantu_kr_tiwari_01" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mantu_kr_tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mantu_kr_tiwari" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
